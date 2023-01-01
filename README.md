@@ -1,5 +1,6 @@
-# Surfs_up
-Purpose
+# Surf's Up!
+ 
+# Purpose
 This project is to analyze weather data in Oahu, Hawaii from an SQLite database to try and get investors to invest in a surf board and ice cream shop called Surf's Up!. The analysis will be used to show investors weather trends in Oahu so they can see how the weather will effect the success of the surfing and ice cream shop. Specifically the investors want to see the following data:
 
 Total precipitation each day for the latest year.
@@ -161,3 +162,4 @@ To look a bit deeper into the sustainability of the shop year-round, a study cou
 June Precipitation	December Precipitation
 June_precip	December_precip
 The tables show that the average precipitation is slightly higher in December (0.22") than in June (0.14") and that December had a higher maximum precipitation (6.42") than the max in June (4.43"). The additional rainfall may have a negative effect on sales and year-round sustainability. Another query to better understand the rain patterns would be to look at how many days out of each month had precipitation. This could provide valuable information for how often sales could be impacted by rain.
+
